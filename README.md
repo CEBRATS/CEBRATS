@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CEBRATS
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Phyton and Java
+- 💞️ I’m looking to collaborate on nothing (now)
+- 📫 How to reach me, idk
